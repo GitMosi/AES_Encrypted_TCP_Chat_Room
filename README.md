@@ -1,4 +1,4 @@
-# AES_Encrypted_TCP_Chat_Room
+# AES Encrypted TCP Chat Room
 
 ## Overview
 Welcome to the AES Encrypted Client-Server TCP Chat Room project! This project demonstrates a simple yet robust implementation of a chat application using TCP sockets, enhanced by the security of AES encryption. The project consists of both a server and a client component, allowing for real-time, secure messaging between users.
